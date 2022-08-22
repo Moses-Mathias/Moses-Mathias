@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moses Mathias
+- 👋 Hello, I’m Moses Mathias
 - 👀 I’m interested in Cloud DevOps, Network Automation, IoT and Python Programming
 - 🌱 I’m currently learning Cloud Development and Python Programming
 - 💞️ I’m looking to collaborate on Python programming and Cloud DevOps
